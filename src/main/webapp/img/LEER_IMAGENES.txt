@@ -1,0 +1,7 @@
+Este es el directorio donde debes guardar las imágenes físicas de las propiedades.
+Los nombres deben coincidir con los establecidos en dml.sql, por ejemplo:
+- prop1_1.jpg
+- prop1_2.jpg
+- prop1_3.jpg
+- prop2_1.jpg
+...etc.
