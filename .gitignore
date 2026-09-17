@@ -1,0 +1,16 @@
+target/
+*.war
+*.class
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+
+# Temporary & system files
+*.log
+scratch/
