@@ -87,6 +87,13 @@ CMD ["catalina.sh", "run"]
 ```
 - Vincula tu repositorio Git al servicio PaaS, el servicio leerá el Dockerfile, compilará la imagen e iniciará el proyecto.
 
+## 5. Despliegue Oficial en Producción (Clever Cloud)
+
+El proyecto se encuentra desplegado y operativo en la nube:
+* **Aplicación Web en Línea:** [https://app-97019259-a89a-49a5-aab0-3bf13b25c26e.cleverapps.io/](https://app-97019259-a89a-49a5-aab0-3bf13b25c26e.cleverapps.io/)
+* **Base de Datos en Línea:** Add-on MySQL en Clever Cloud (`inmobiliaria-db`).
+* **Repositorio Oficial:** [https://github.com/kelvor16/TresMueblesWeb](https://github.com/kelvor16/TresMueblesWeb)
+
 ---
 **Tres Muebles Web - Fin de la Guía**
 
