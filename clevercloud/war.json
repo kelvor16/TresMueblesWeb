@@ -4,6 +4,12 @@
     "goal": "package -DskipTests"
   },
   "deploy": {
-    "container": "TOMCAT10"
+    "container": "TOMCAT10",
+    "war": [
+      {
+        "file": "target/TresMueblesWeb-1.0-SNAPSHOT.war",
+        "context": "/"
+      }
+    ]
   }
 }
